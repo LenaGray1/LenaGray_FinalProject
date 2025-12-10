@@ -1,0 +1,3926 @@
+High_Paying,job_title,experience_level,company_size
+No,Data Analyst,Mid,Large
+No,Computer Vision Engineer,Senior,Large
+Yes,Quant Researcher,Entry,Large
+No,AI Product Manager,Mid,Large
+No,Data Scientist,Senior,Large
+No,NLP Engineer,Mid,Large
+No,AI Researcher,Mid,Large
+No,ML Engineer,Mid,Large
+No,Data Analyst,Senior,Large
+No,Computer Vision Engineer,Entry,Large
+No,Quant Researcher,Senior,Large
+No,AI Product Manager,Entry,Large
+Yes,Data Scientist,Mid,Large
+No,NLP Engineer,Senior,Large
+No,AI Researcher,Entry,Large
+No,ML Engineer,Senior,Large
+No,Data Analyst,Entry,Mid
+No,Computer Vision Engineer,Mid,Mid
+Yes,Quant Researcher,Senior,Mid
+No,AI Product Manager,Senior,Mid
+No,Data Scientist,Entry,Mid
+No,NLP Engineer,Mid,Mid
+No,AI Researcher,Senior,Mid
+No,ML Engineer,Entry,Mid
+No,Data Analyst,Senior,Mid
+No,Computer Vision Engineer,Entry,Mid
+Yes,Quant Researcher,Mid,Mid
+No,AI Product Manager,Entry,Mid
+No,Data Scientist,Senior,Mid
+No,NLP Engineer,Entry,Mid
+No,AI Researcher,Mid,Mid
+No,ML Engineer,Senior,Mid
+No,Data Analyst,Entry,Startup
+No,Computer Vision Engineer,Senior,Startup
+Yes,Quant Researcher,Mid,Startup
+No,AI Product Manager,Mid,Startup
+No,Data Scientist,Entry,Startup
+No,NLP Engineer,Senior,Startup
+No,AI Researcher,Entry,Startup
+No,ML Engineer,Mid,Startup
+No,Data Analyst,Mid,Startup
+No,Computer Vision Engineer,Entry,Startup
+Yes,Quant Researcher,Senior,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Mid,Startup
+No,NLP Engineer,Entry,Startup
+No,AI Researcher,Senior,Startup
+No,ML Engineer,Entry,Startup
+No,Data Analyst,Senior,Large
+No,Computer Vision Engineer,Mid,Large
+Yes,Quant Researcher,Entry,Large
+No,AI Product Manager,Senior,Large
+No,Data Scientist,Entry,Large
+No,NLP Engineer,Mid,Large
+No,AI Researcher,Senior,Large
+No,ML Engineer,Entry,Large
+No,Data Analyst,Entry,Mid
+No,Computer Vision Engineer,Senior,Mid
+Yes,Quant Researcher,Mid,Mid
+No,AI Product Manager,Entry,Mid
+No,Data Scientist,Senior,Mid
+No,NLP Engineer,Entry,Mid
+No,AI Researcher,Mid,Mid
+No,ML Engineer,Senior,Mid
+No,Data Analyst,Mid,Startup
+No,Computer Vision Engineer,Entry,Startup
+Yes,Quant Researcher,Senior,Startup
+No,AI Product Manager,Mid,Startup
+No,Data Scientist,Entry,Startup
+No,NLP Engineer,Senior,Startup
+No,AI Researcher,Entry,Startup
+No,ML Engineer,Mid,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Senior,Large
+Yes,Quant Researcher,Mid,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Senior,Large
+No,NLP Engineer,Entry,Large
+No,AI Researcher,Mid,Large
+No,ML Engineer,Senior,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Entry,Mid
+Yes,Quant Researcher,Senior,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Entry,Mid
+No,NLP Engineer,Senior,Mid
+No,AI Researcher,Entry,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Mid,Startup
+Yes,Quant Researcher,Entry,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Mid,Startup
+No,NLP Engineer,Entry,Startup
+No,AI Researcher,Senior,Startup
+No,ML Engineer,Mid,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Mid,Large
+Yes,Quant Researcher,Senior,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Mid,Large
+No,NLP Engineer,Senior,Large
+No,AI Researcher,Entry,Large
+No,ML Engineer,Mid,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Senior,Mid
+Yes,Quant Researcher,Entry,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Senior,Mid
+No,NLP Engineer,Entry,Mid
+No,AI Researcher,Senior,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Entry,Startup
+Yes,Quant Researcher,Mid,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Entry,Startup
+No,NLP Engineer,Mid,Startup
+No,AI Researcher,Entry,Startup
+No,ML Engineer,Senior,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Senior,Large
+Yes,Quant Researcher,Mid,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Senior,Large
+No,NLP Engineer,Entry,Large
+No,AI Researcher,Mid,Large
+No,ML Engineer,Senior,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Entry,Mid
+Yes,Quant Researcher,Senior,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Entry,Mid
+No,NLP Engineer,Senior,Mid
+No,AI Researcher,Entry,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Mid,Startup
+Yes,Quant Researcher,Entry,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Mid,Startup
+No,NLP Engineer,Entry,Startup
+No,AI Researcher,Senior,Startup
+No,ML Engineer,Mid,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Mid,Large
+Yes,Quant Researcher,Senior,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Mid,Large
+No,NLP Engineer,Senior,Large
+No,AI Researcher,Entry,Large
+No,ML Engineer,Mid,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Senior,Mid
+Yes,Quant Researcher,Entry,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Senior,Mid
+No,NLP Engineer,Entry,Mid
+No,AI Researcher,Senior,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Entry,Startup
+Yes,Quant Researcher,Mid,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Entry,Startup
+No,NLP Engineer,Mid,Startup
+No,AI Researcher,Entry,Startup
+No,ML Engineer,Senior,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Senior,Large
+Yes,Quant Researcher,Mid,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Senior,Large
+No,NLP Engineer,Entry,Large
+No,AI Researcher,Mid,Large
+No,ML Engineer,Senior,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Entry,Mid
+Yes,Quant Researcher,Senior,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Entry,Mid
+No,NLP Engineer,Senior,Mid
+No,AI Researcher,Entry,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Mid,Startup
+Yes,Quant Researcher,Entry,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Mid,Startup
+No,NLP Engineer,Entry,Startup
+No,AI Researcher,Senior,Startup
+No,ML Engineer,Mid,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Mid,Large
+Yes,Quant Researcher,Senior,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Mid,Large
+No,NLP Engineer,Senior,Large
+No,AI Researcher,Entry,Large
+No,ML Engineer,Mid,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Senior,Mid
+Yes,Quant Researcher,Entry,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Senior,Mid
+No,NLP Engineer,Entry,Mid
+No,AI Researcher,Senior,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Entry,Startup
+Yes,Quant Researcher,Mid,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Entry,Startup
+No,NLP Engineer,Mid,Startup
+No,AI Researcher,Entry,Startup
+No,ML Engineer,Senior,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Senior,Large
+Yes,Quant Researcher,Mid,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Senior,Large
+No,NLP Engineer,Entry,Large
+No,AI Researcher,Mid,Large
+No,ML Engineer,Senior,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Entry,Mid
+Yes,Quant Researcher,Senior,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Entry,Mid
+No,NLP Engineer,Senior,Mid
+No,AI Researcher,Entry,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Mid,Startup
+Yes,Quant Researcher,Entry,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Mid,Startup
+No,NLP Engineer,Entry,Startup
+No,AI Researcher,Senior,Startup
+No,ML Engineer,Mid,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Mid,Large
+Yes,Quant Researcher,Senior,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Mid,Large
+No,NLP Engineer,Senior,Large
+No,AI Researcher,Entry,Large
+No,ML Engineer,Mid,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Senior,Mid
+Yes,Quant Researcher,Entry,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Senior,Mid
+No,NLP Engineer,Entry,Mid
+No,AI Researcher,Senior,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Entry,Startup
+Yes,Quant Researcher,Mid,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Entry,Startup
+No,NLP Engineer,Mid,Startup
+No,AI Researcher,Entry,Startup
+No,ML Engineer,Senior,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Senior,Large
+Yes,Quant Researcher,Mid,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Senior,Large
+No,NLP Engineer,Entry,Large
+No,AI Researcher,Mid,Large
+No,ML Engineer,Senior,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Entry,Mid
+Yes,Quant Researcher,Senior,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Entry,Mid
+No,NLP Engineer,Senior,Mid
+No,AI Researcher,Entry,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Mid,Startup
+Yes,Quant Researcher,Entry,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Mid,Startup
+No,NLP Engineer,Entry,Startup
+No,AI Researcher,Senior,Startup
+No,ML Engineer,Mid,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Mid,Large
+Yes,Quant Researcher,Senior,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Mid,Large
+No,NLP Engineer,Senior,Large
+No,AI Researcher,Entry,Large
+No,ML Engineer,Mid,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Senior,Mid
+Yes,Quant Researcher,Entry,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Senior,Mid
+No,NLP Engineer,Entry,Mid
+No,AI Researcher,Senior,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Entry,Startup
+Yes,Quant Researcher,Mid,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Entry,Startup
+No,NLP Engineer,Mid,Startup
+No,AI Researcher,Entry,Startup
+No,ML Engineer,Senior,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Senior,Large
+Yes,Quant Researcher,Mid,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Senior,Large
+No,NLP Engineer,Entry,Large
+No,AI Researcher,Mid,Large
+No,ML Engineer,Senior,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Entry,Mid
+Yes,Quant Researcher,Senior,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Entry,Mid
+No,NLP Engineer,Senior,Mid
+No,AI Researcher,Entry,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Mid,Startup
+Yes,Quant Researcher,Entry,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Mid,Startup
+No,NLP Engineer,Entry,Startup
+No,AI Researcher,Senior,Startup
+No,ML Engineer,Mid,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Mid,Large
+Yes,Quant Researcher,Senior,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Mid,Large
+No,NLP Engineer,Senior,Large
+No,AI Researcher,Entry,Large
+No,ML Engineer,Mid,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Senior,Mid
+Yes,Quant Researcher,Entry,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Senior,Mid
+No,NLP Engineer,Entry,Mid
+No,AI Researcher,Senior,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Entry,Startup
+Yes,Quant Researcher,Mid,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Entry,Startup
+No,NLP Engineer,Mid,Startup
+No,AI Researcher,Entry,Startup
+No,ML Engineer,Senior,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Senior,Large
+Yes,Quant Researcher,Mid,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Senior,Large
+No,NLP Engineer,Entry,Large
+No,AI Researcher,Mid,Large
+No,ML Engineer,Senior,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Entry,Mid
+Yes,Quant Researcher,Senior,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Entry,Mid
+No,NLP Engineer,Senior,Mid
+No,AI Researcher,Entry,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Mid,Startup
+Yes,Quant Researcher,Entry,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Mid,Startup
+No,NLP Engineer,Entry,Startup
+No,AI Researcher,Senior,Startup
+No,ML Engineer,Mid,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Mid,Large
+Yes,Quant Researcher,Senior,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Mid,Large
+No,NLP Engineer,Senior,Large
+No,AI Researcher,Entry,Large
+No,ML Engineer,Mid,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Senior,Mid
+Yes,Quant Researcher,Entry,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Senior,Mid
+No,NLP Engineer,Entry,Mid
+No,AI Researcher,Senior,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Entry,Startup
+Yes,Quant Researcher,Mid,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Entry,Startup
+No,NLP Engineer,Mid,Startup
+No,AI Researcher,Entry,Startup
+No,ML Engineer,Senior,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Senior,Large
+Yes,Quant Researcher,Mid,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Senior,Large
+No,NLP Engineer,Entry,Large
+No,AI Researcher,Mid,Large
+No,ML Engineer,Senior,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Entry,Mid
+Yes,Quant Researcher,Senior,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Entry,Mid
+No,NLP Engineer,Senior,Mid
+No,AI Researcher,Entry,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Mid,Startup
+Yes,Quant Researcher,Entry,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Mid,Startup
+No,NLP Engineer,Entry,Startup
+No,AI Researcher,Senior,Startup
+No,ML Engineer,Mid,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Mid,Large
+Yes,Quant Researcher,Senior,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Mid,Large
+No,NLP Engineer,Senior,Large
+No,AI Researcher,Entry,Large
+No,ML Engineer,Mid,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Senior,Mid
+Yes,Quant Researcher,Entry,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Senior,Mid
+No,NLP Engineer,Entry,Mid
+No,AI Researcher,Senior,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Entry,Startup
+Yes,Quant Researcher,Mid,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Entry,Startup
+No,NLP Engineer,Mid,Startup
+No,AI Researcher,Entry,Startup
+No,ML Engineer,Senior,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Senior,Large
+Yes,Quant Researcher,Mid,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Senior,Large
+No,NLP Engineer,Entry,Large
+No,AI Researcher,Mid,Large
+No,ML Engineer,Senior,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Entry,Mid
+Yes,Quant Researcher,Senior,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Entry,Mid
+No,NLP Engineer,Senior,Mid
+No,AI Researcher,Entry,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Mid,Startup
+Yes,Quant Researcher,Entry,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Mid,Startup
+No,NLP Engineer,Entry,Startup
+No,AI Researcher,Senior,Startup
+No,ML Engineer,Mid,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Mid,Large
+Yes,Quant Researcher,Senior,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Mid,Large
+No,NLP Engineer,Senior,Large
+No,AI Researcher,Entry,Large
+No,ML Engineer,Mid,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Senior,Mid
+Yes,Quant Researcher,Entry,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Senior,Mid
+No,NLP Engineer,Entry,Mid
+No,AI Researcher,Senior,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Entry,Startup
+Yes,Quant Researcher,Mid,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Entry,Startup
+No,NLP Engineer,Mid,Startup
+No,AI Researcher,Entry,Startup
+No,ML Engineer,Senior,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Senior,Large
+Yes,Quant Researcher,Mid,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Senior,Large
+No,NLP Engineer,Entry,Large
+No,AI Researcher,Mid,Large
+No,ML Engineer,Senior,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Entry,Mid
+Yes,Quant Researcher,Senior,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Entry,Mid
+No,NLP Engineer,Senior,Mid
+No,AI Researcher,Entry,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Mid,Startup
+Yes,Quant Researcher,Entry,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Mid,Startup
+No,NLP Engineer,Entry,Startup
+No,AI Researcher,Senior,Startup
+No,ML Engineer,Mid,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Mid,Large
+Yes,Quant Researcher,Senior,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Mid,Large
+No,NLP Engineer,Senior,Large
+No,AI Researcher,Entry,Large
+No,ML Engineer,Mid,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Senior,Mid
+Yes,Quant Researcher,Entry,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Senior,Mid
+No,NLP Engineer,Entry,Mid
+No,AI Researcher,Senior,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Entry,Startup
+Yes,Quant Researcher,Mid,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Entry,Startup
+No,NLP Engineer,Mid,Startup
+No,AI Researcher,Entry,Startup
+No,ML Engineer,Senior,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Senior,Large
+Yes,Quant Researcher,Mid,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Senior,Large
+No,NLP Engineer,Entry,Large
+No,AI Researcher,Mid,Large
+No,ML Engineer,Senior,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Entry,Mid
+Yes,Quant Researcher,Senior,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Entry,Mid
+No,NLP Engineer,Senior,Mid
+No,AI Researcher,Entry,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Mid,Startup
+Yes,Quant Researcher,Entry,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Mid,Startup
+No,NLP Engineer,Entry,Startup
+No,AI Researcher,Senior,Startup
+No,ML Engineer,Mid,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Mid,Large
+Yes,Quant Researcher,Senior,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Mid,Large
+No,NLP Engineer,Senior,Large
+No,AI Researcher,Entry,Large
+No,ML Engineer,Mid,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Senior,Mid
+Yes,Quant Researcher,Entry,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Senior,Mid
+No,NLP Engineer,Entry,Mid
+No,AI Researcher,Senior,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Entry,Startup
+Yes,Quant Researcher,Mid,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Entry,Startup
+No,NLP Engineer,Mid,Startup
+No,AI Researcher,Entry,Startup
+No,ML Engineer,Senior,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Senior,Large
+Yes,Quant Researcher,Mid,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Senior,Large
+No,NLP Engineer,Entry,Large
+No,AI Researcher,Mid,Large
+No,ML Engineer,Senior,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Entry,Mid
+Yes,Quant Researcher,Senior,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Entry,Mid
+No,NLP Engineer,Senior,Mid
+No,AI Researcher,Entry,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Mid,Startup
+Yes,Quant Researcher,Entry,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Mid,Startup
+No,NLP Engineer,Entry,Startup
+No,AI Researcher,Senior,Startup
+No,ML Engineer,Mid,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Mid,Large
+Yes,Quant Researcher,Senior,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Mid,Large
+No,NLP Engineer,Senior,Large
+No,AI Researcher,Entry,Large
+No,ML Engineer,Mid,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Senior,Mid
+Yes,Quant Researcher,Entry,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Senior,Mid
+No,NLP Engineer,Entry,Mid
+No,AI Researcher,Senior,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Entry,Startup
+Yes,Quant Researcher,Mid,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Entry,Startup
+No,NLP Engineer,Mid,Startup
+No,AI Researcher,Entry,Startup
+No,ML Engineer,Senior,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Senior,Large
+Yes,Quant Researcher,Mid,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Senior,Large
+No,NLP Engineer,Entry,Large
+No,AI Researcher,Mid,Large
+No,ML Engineer,Senior,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Entry,Mid
+Yes,Quant Researcher,Senior,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Entry,Mid
+No,NLP Engineer,Senior,Mid
+No,AI Researcher,Entry,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Mid,Startup
+Yes,Quant Researcher,Entry,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Mid,Startup
+No,NLP Engineer,Entry,Startup
+No,AI Researcher,Senior,Startup
+No,ML Engineer,Mid,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Mid,Large
+Yes,Quant Researcher,Senior,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Mid,Large
+No,NLP Engineer,Senior,Large
+No,AI Researcher,Entry,Large
+No,ML Engineer,Mid,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Senior,Mid
+Yes,Quant Researcher,Entry,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Senior,Mid
+No,NLP Engineer,Entry,Mid
+No,AI Researcher,Senior,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Entry,Startup
+Yes,Quant Researcher,Mid,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Entry,Startup
+No,NLP Engineer,Mid,Startup
+No,AI Researcher,Entry,Startup
+No,ML Engineer,Senior,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Senior,Large
+Yes,Quant Researcher,Mid,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Senior,Large
+No,NLP Engineer,Entry,Large
+No,AI Researcher,Mid,Large
+No,ML Engineer,Senior,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Entry,Mid
+Yes,Quant Researcher,Senior,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Entry,Mid
+No,NLP Engineer,Senior,Mid
+No,AI Researcher,Entry,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Mid,Startup
+Yes,Quant Researcher,Entry,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Mid,Startup
+No,NLP Engineer,Entry,Startup
+No,AI Researcher,Senior,Startup
+No,ML Engineer,Mid,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Mid,Large
+Yes,Quant Researcher,Senior,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Mid,Large
+No,NLP Engineer,Senior,Large
+No,AI Researcher,Entry,Large
+No,ML Engineer,Mid,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Senior,Mid
+Yes,Quant Researcher,Entry,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Senior,Mid
+No,NLP Engineer,Entry,Mid
+No,AI Researcher,Senior,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Entry,Startup
+Yes,Quant Researcher,Mid,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Entry,Startup
+No,NLP Engineer,Mid,Startup
+No,AI Researcher,Entry,Startup
+No,ML Engineer,Senior,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Senior,Large
+Yes,Quant Researcher,Mid,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Senior,Large
+No,NLP Engineer,Entry,Large
+No,AI Researcher,Mid,Large
+No,ML Engineer,Senior,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Entry,Mid
+Yes,Quant Researcher,Senior,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Entry,Mid
+No,NLP Engineer,Senior,Mid
+No,AI Researcher,Entry,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Mid,Startup
+Yes,Quant Researcher,Entry,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Mid,Startup
+No,NLP Engineer,Entry,Startup
+No,AI Researcher,Senior,Startup
+No,ML Engineer,Mid,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Mid,Large
+Yes,Quant Researcher,Senior,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Mid,Large
+No,NLP Engineer,Senior,Large
+No,AI Researcher,Entry,Large
+No,ML Engineer,Mid,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Senior,Mid
+Yes,Quant Researcher,Entry,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Senior,Mid
+No,NLP Engineer,Entry,Mid
+No,AI Researcher,Senior,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Entry,Startup
+Yes,Quant Researcher,Mid,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Entry,Startup
+No,NLP Engineer,Mid,Startup
+No,AI Researcher,Entry,Startup
+No,ML Engineer,Senior,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Senior,Large
+Yes,Quant Researcher,Mid,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Senior,Large
+No,NLP Engineer,Entry,Large
+No,AI Researcher,Mid,Large
+No,ML Engineer,Senior,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Entry,Mid
+Yes,Quant Researcher,Senior,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Entry,Mid
+No,NLP Engineer,Senior,Mid
+No,AI Researcher,Entry,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Mid,Startup
+Yes,Quant Researcher,Entry,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Mid,Startup
+No,NLP Engineer,Entry,Startup
+No,AI Researcher,Senior,Startup
+No,ML Engineer,Mid,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Mid,Large
+Yes,Quant Researcher,Senior,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Mid,Large
+No,NLP Engineer,Senior,Large
+No,AI Researcher,Entry,Large
+No,ML Engineer,Mid,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Senior,Mid
+Yes,Quant Researcher,Entry,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Senior,Mid
+No,NLP Engineer,Entry,Mid
+No,AI Researcher,Senior,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Entry,Startup
+Yes,Quant Researcher,Mid,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Entry,Startup
+No,NLP Engineer,Mid,Startup
+No,AI Researcher,Entry,Startup
+No,ML Engineer,Senior,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Senior,Large
+Yes,Quant Researcher,Mid,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Senior,Large
+No,NLP Engineer,Entry,Large
+No,AI Researcher,Mid,Large
+No,ML Engineer,Senior,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Entry,Mid
+Yes,Quant Researcher,Senior,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Entry,Mid
+No,NLP Engineer,Senior,Mid
+No,AI Researcher,Entry,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Mid,Startup
+Yes,Quant Researcher,Entry,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Mid,Startup
+No,NLP Engineer,Entry,Startup
+No,AI Researcher,Senior,Startup
+No,ML Engineer,Mid,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Mid,Large
+Yes,Quant Researcher,Senior,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Mid,Large
+No,NLP Engineer,Senior,Large
+No,AI Researcher,Entry,Large
+No,ML Engineer,Mid,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Senior,Mid
+Yes,Quant Researcher,Entry,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Senior,Mid
+No,NLP Engineer,Entry,Mid
+No,AI Researcher,Senior,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Entry,Startup
+Yes,Quant Researcher,Mid,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Entry,Startup
+No,NLP Engineer,Mid,Startup
+No,AI Researcher,Entry,Startup
+No,ML Engineer,Senior,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Senior,Large
+Yes,Quant Researcher,Mid,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Senior,Large
+No,NLP Engineer,Entry,Large
+No,AI Researcher,Mid,Large
+No,ML Engineer,Senior,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Entry,Mid
+Yes,Quant Researcher,Senior,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Entry,Mid
+No,NLP Engineer,Senior,Mid
+No,AI Researcher,Entry,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Mid,Startup
+Yes,Quant Researcher,Entry,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Mid,Startup
+No,NLP Engineer,Entry,Startup
+No,AI Researcher,Senior,Startup
+No,ML Engineer,Mid,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Mid,Large
+Yes,Quant Researcher,Senior,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Mid,Large
+No,NLP Engineer,Senior,Large
+No,AI Researcher,Entry,Large
+No,ML Engineer,Mid,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Senior,Mid
+Yes,Quant Researcher,Entry,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Senior,Mid
+No,NLP Engineer,Entry,Mid
+No,AI Researcher,Senior,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Entry,Startup
+Yes,Quant Researcher,Mid,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Entry,Startup
+No,NLP Engineer,Mid,Startup
+No,AI Researcher,Entry,Startup
+No,ML Engineer,Senior,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Senior,Large
+Yes,Quant Researcher,Mid,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Senior,Large
+No,NLP Engineer,Entry,Large
+No,AI Researcher,Mid,Large
+No,ML Engineer,Senior,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Entry,Mid
+Yes,Quant Researcher,Senior,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Entry,Mid
+No,NLP Engineer,Senior,Mid
+No,AI Researcher,Entry,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Mid,Startup
+Yes,Quant Researcher,Entry,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Mid,Startup
+No,NLP Engineer,Entry,Startup
+No,AI Researcher,Senior,Startup
+No,ML Engineer,Mid,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Mid,Large
+Yes,Quant Researcher,Senior,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Mid,Large
+No,NLP Engineer,Senior,Large
+No,AI Researcher,Entry,Large
+No,ML Engineer,Mid,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Senior,Mid
+Yes,Quant Researcher,Entry,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Senior,Mid
+No,NLP Engineer,Entry,Mid
+No,AI Researcher,Senior,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Entry,Startup
+Yes,Quant Researcher,Mid,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Entry,Startup
+No,NLP Engineer,Mid,Startup
+No,AI Researcher,Entry,Startup
+No,ML Engineer,Senior,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Senior,Large
+Yes,Quant Researcher,Mid,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Senior,Large
+No,NLP Engineer,Entry,Large
+No,AI Researcher,Mid,Large
+No,ML Engineer,Senior,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Entry,Mid
+Yes,Quant Researcher,Senior,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Entry,Mid
+No,NLP Engineer,Senior,Mid
+No,AI Researcher,Entry,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Mid,Startup
+Yes,Quant Researcher,Entry,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Mid,Startup
+No,NLP Engineer,Entry,Startup
+No,AI Researcher,Senior,Startup
+No,ML Engineer,Mid,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Mid,Large
+Yes,Quant Researcher,Senior,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Mid,Large
+No,NLP Engineer,Senior,Large
+No,AI Researcher,Entry,Large
+No,ML Engineer,Mid,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Senior,Mid
+Yes,Quant Researcher,Entry,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Senior,Mid
+No,NLP Engineer,Entry,Mid
+No,AI Researcher,Senior,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Entry,Startup
+Yes,Quant Researcher,Mid,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Entry,Startup
+No,NLP Engineer,Mid,Startup
+No,AI Researcher,Entry,Startup
+No,ML Engineer,Senior,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Senior,Large
+Yes,Quant Researcher,Mid,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Senior,Large
+No,NLP Engineer,Entry,Large
+No,AI Researcher,Mid,Large
+No,ML Engineer,Senior,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Entry,Mid
+Yes,Quant Researcher,Senior,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Entry,Mid
+No,NLP Engineer,Senior,Mid
+No,AI Researcher,Entry,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Mid,Startup
+Yes,Quant Researcher,Entry,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Mid,Startup
+No,NLP Engineer,Entry,Startup
+No,AI Researcher,Senior,Startup
+No,ML Engineer,Mid,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Mid,Large
+Yes,Quant Researcher,Senior,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Mid,Large
+No,NLP Engineer,Senior,Large
+No,AI Researcher,Entry,Large
+No,ML Engineer,Mid,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Senior,Mid
+Yes,Quant Researcher,Entry,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Senior,Mid
+No,NLP Engineer,Entry,Mid
+No,AI Researcher,Senior,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Entry,Startup
+Yes,Quant Researcher,Mid,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Entry,Startup
+No,NLP Engineer,Mid,Startup
+No,AI Researcher,Entry,Startup
+No,ML Engineer,Senior,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Senior,Large
+Yes,Quant Researcher,Mid,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Senior,Large
+No,NLP Engineer,Entry,Large
+No,AI Researcher,Mid,Large
+No,ML Engineer,Senior,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Entry,Mid
+Yes,Quant Researcher,Senior,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Entry,Mid
+No,NLP Engineer,Senior,Mid
+No,AI Researcher,Entry,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Mid,Startup
+Yes,Quant Researcher,Entry,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Mid,Startup
+No,NLP Engineer,Entry,Startup
+No,AI Researcher,Senior,Startup
+No,ML Engineer,Mid,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Mid,Large
+Yes,Quant Researcher,Senior,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Mid,Large
+No,NLP Engineer,Senior,Large
+No,AI Researcher,Entry,Large
+No,ML Engineer,Mid,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Senior,Mid
+Yes,Quant Researcher,Entry,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Senior,Mid
+No,NLP Engineer,Entry,Mid
+No,AI Researcher,Senior,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Entry,Startup
+Yes,Quant Researcher,Mid,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Entry,Startup
+No,NLP Engineer,Mid,Startup
+No,AI Researcher,Entry,Startup
+No,ML Engineer,Senior,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Senior,Large
+Yes,Quant Researcher,Mid,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Senior,Large
+No,NLP Engineer,Entry,Large
+No,AI Researcher,Mid,Large
+No,ML Engineer,Senior,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Entry,Mid
+Yes,Quant Researcher,Senior,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Entry,Mid
+No,NLP Engineer,Senior,Mid
+No,AI Researcher,Entry,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Mid,Startup
+Yes,Quant Researcher,Entry,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Mid,Startup
+No,NLP Engineer,Entry,Startup
+No,AI Researcher,Senior,Startup
+No,ML Engineer,Mid,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Mid,Large
+Yes,Quant Researcher,Senior,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Mid,Large
+No,NLP Engineer,Senior,Large
+No,AI Researcher,Entry,Large
+No,ML Engineer,Mid,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Senior,Mid
+Yes,Quant Researcher,Entry,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Senior,Mid
+No,NLP Engineer,Entry,Mid
+No,AI Researcher,Senior,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Entry,Startup
+Yes,Quant Researcher,Mid,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Entry,Startup
+No,NLP Engineer,Mid,Startup
+No,AI Researcher,Entry,Startup
+No,ML Engineer,Senior,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Senior,Large
+Yes,Quant Researcher,Mid,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Senior,Large
+No,NLP Engineer,Entry,Large
+No,AI Researcher,Mid,Large
+No,ML Engineer,Senior,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Entry,Mid
+Yes,Quant Researcher,Senior,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Entry,Mid
+No,NLP Engineer,Senior,Mid
+No,AI Researcher,Entry,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Mid,Startup
+Yes,Quant Researcher,Entry,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Mid,Startup
+No,NLP Engineer,Entry,Startup
+No,AI Researcher,Senior,Startup
+No,ML Engineer,Mid,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Mid,Large
+Yes,Quant Researcher,Senior,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Mid,Large
+No,NLP Engineer,Senior,Large
+No,AI Researcher,Entry,Large
+No,ML Engineer,Mid,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Senior,Mid
+Yes,Quant Researcher,Entry,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Senior,Mid
+No,NLP Engineer,Entry,Mid
+No,AI Researcher,Senior,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Entry,Startup
+Yes,Quant Researcher,Mid,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Entry,Startup
+No,NLP Engineer,Mid,Startup
+No,AI Researcher,Entry,Startup
+No,ML Engineer,Senior,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Senior,Large
+Yes,Quant Researcher,Mid,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Senior,Large
+No,NLP Engineer,Entry,Large
+No,AI Researcher,Mid,Large
+No,ML Engineer,Senior,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Entry,Mid
+Yes,Quant Researcher,Senior,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Entry,Mid
+No,NLP Engineer,Senior,Mid
+No,AI Researcher,Entry,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Mid,Startup
+Yes,Quant Researcher,Entry,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Mid,Startup
+No,NLP Engineer,Entry,Startup
+No,AI Researcher,Senior,Startup
+No,ML Engineer,Mid,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Mid,Large
+Yes,Quant Researcher,Senior,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Mid,Large
+No,NLP Engineer,Senior,Large
+No,AI Researcher,Entry,Large
+No,ML Engineer,Mid,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Senior,Mid
+Yes,Quant Researcher,Entry,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Senior,Mid
+No,NLP Engineer,Entry,Mid
+No,AI Researcher,Senior,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Entry,Startup
+Yes,Quant Researcher,Mid,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Entry,Startup
+No,NLP Engineer,Mid,Startup
+No,AI Researcher,Entry,Startup
+No,ML Engineer,Senior,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Senior,Large
+Yes,Quant Researcher,Mid,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Senior,Large
+No,NLP Engineer,Entry,Large
+No,AI Researcher,Mid,Large
+No,ML Engineer,Senior,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Entry,Mid
+Yes,Quant Researcher,Senior,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Entry,Mid
+No,NLP Engineer,Senior,Mid
+No,AI Researcher,Entry,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Mid,Startup
+Yes,Quant Researcher,Entry,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Mid,Startup
+No,NLP Engineer,Entry,Startup
+No,AI Researcher,Senior,Startup
+No,ML Engineer,Mid,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Mid,Large
+Yes,Quant Researcher,Senior,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Mid,Large
+No,NLP Engineer,Senior,Large
+No,AI Researcher,Entry,Large
+No,ML Engineer,Mid,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Senior,Mid
+Yes,Quant Researcher,Entry,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Senior,Mid
+No,NLP Engineer,Entry,Mid
+No,AI Researcher,Senior,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Entry,Startup
+Yes,Quant Researcher,Mid,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Entry,Startup
+No,NLP Engineer,Mid,Startup
+No,AI Researcher,Entry,Startup
+No,ML Engineer,Senior,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Senior,Large
+Yes,Quant Researcher,Mid,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Senior,Large
+No,NLP Engineer,Entry,Large
+No,AI Researcher,Mid,Large
+No,ML Engineer,Senior,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Entry,Mid
+Yes,Quant Researcher,Senior,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Entry,Mid
+No,NLP Engineer,Senior,Mid
+No,AI Researcher,Entry,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Mid,Startup
+Yes,Quant Researcher,Entry,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Mid,Startup
+No,NLP Engineer,Entry,Startup
+No,AI Researcher,Senior,Startup
+No,ML Engineer,Mid,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Mid,Large
+Yes,Quant Researcher,Senior,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Mid,Large
+No,NLP Engineer,Senior,Large
+No,AI Researcher,Entry,Large
+No,ML Engineer,Mid,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Senior,Mid
+Yes,Quant Researcher,Entry,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Senior,Mid
+No,NLP Engineer,Entry,Mid
+No,AI Researcher,Senior,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Entry,Startup
+Yes,Quant Researcher,Mid,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Entry,Startup
+No,NLP Engineer,Mid,Startup
+No,AI Researcher,Entry,Startup
+No,ML Engineer,Senior,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Senior,Large
+Yes,Quant Researcher,Mid,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Senior,Large
+No,NLP Engineer,Entry,Large
+No,AI Researcher,Mid,Large
+No,ML Engineer,Senior,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Entry,Mid
+Yes,Quant Researcher,Senior,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Entry,Mid
+No,NLP Engineer,Senior,Mid
+No,AI Researcher,Entry,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Mid,Startup
+Yes,Quant Researcher,Entry,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Mid,Startup
+No,NLP Engineer,Entry,Startup
+No,AI Researcher,Senior,Startup
+No,ML Engineer,Mid,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Mid,Large
+Yes,Quant Researcher,Senior,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Mid,Large
+No,NLP Engineer,Senior,Large
+No,AI Researcher,Entry,Large
+No,ML Engineer,Mid,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Senior,Mid
+Yes,Quant Researcher,Entry,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Senior,Mid
+No,NLP Engineer,Entry,Mid
+No,AI Researcher,Senior,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Entry,Startup
+Yes,Quant Researcher,Mid,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Entry,Startup
+No,NLP Engineer,Mid,Startup
+No,AI Researcher,Entry,Startup
+No,ML Engineer,Senior,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Senior,Large
+Yes,Quant Researcher,Mid,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Senior,Large
+No,NLP Engineer,Entry,Large
+No,AI Researcher,Mid,Large
+No,ML Engineer,Senior,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Entry,Mid
+Yes,Quant Researcher,Senior,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Entry,Mid
+No,NLP Engineer,Senior,Mid
+No,AI Researcher,Entry,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Mid,Startup
+Yes,Quant Researcher,Entry,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Mid,Startup
+No,NLP Engineer,Entry,Startup
+No,AI Researcher,Senior,Startup
+No,ML Engineer,Mid,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Mid,Large
+Yes,Quant Researcher,Senior,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Mid,Large
+No,NLP Engineer,Senior,Large
+No,AI Researcher,Entry,Large
+No,ML Engineer,Mid,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Senior,Mid
+Yes,Quant Researcher,Entry,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Senior,Mid
+No,NLP Engineer,Entry,Mid
+No,AI Researcher,Senior,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Entry,Startup
+Yes,Quant Researcher,Mid,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Entry,Startup
+No,NLP Engineer,Mid,Startup
+No,AI Researcher,Entry,Startup
+No,ML Engineer,Senior,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Senior,Large
+Yes,Quant Researcher,Mid,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Senior,Large
+No,NLP Engineer,Entry,Large
+No,AI Researcher,Mid,Large
+No,ML Engineer,Senior,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Entry,Mid
+Yes,Quant Researcher,Senior,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Entry,Mid
+No,NLP Engineer,Senior,Mid
+No,AI Researcher,Entry,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Mid,Startup
+Yes,Quant Researcher,Entry,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Mid,Startup
+No,NLP Engineer,Entry,Startup
+No,AI Researcher,Senior,Startup
+No,ML Engineer,Mid,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Mid,Large
+Yes,Quant Researcher,Senior,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Mid,Large
+No,NLP Engineer,Senior,Large
+No,AI Researcher,Entry,Large
+No,ML Engineer,Mid,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Senior,Mid
+Yes,Quant Researcher,Entry,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Senior,Mid
+No,NLP Engineer,Entry,Mid
+No,AI Researcher,Senior,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Entry,Startup
+Yes,Quant Researcher,Mid,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Entry,Startup
+No,NLP Engineer,Mid,Startup
+No,AI Researcher,Entry,Startup
+No,ML Engineer,Senior,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Senior,Large
+Yes,Quant Researcher,Mid,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Senior,Large
+No,NLP Engineer,Entry,Large
+No,AI Researcher,Mid,Large
+No,ML Engineer,Senior,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Entry,Mid
+Yes,Quant Researcher,Senior,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Entry,Mid
+No,NLP Engineer,Senior,Mid
+No,AI Researcher,Entry,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Mid,Startup
+Yes,Quant Researcher,Entry,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Mid,Startup
+No,NLP Engineer,Entry,Startup
+No,AI Researcher,Senior,Startup
+No,ML Engineer,Mid,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Mid,Large
+Yes,Quant Researcher,Senior,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Mid,Large
+No,NLP Engineer,Senior,Large
+No,AI Researcher,Entry,Large
+No,ML Engineer,Mid,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Senior,Mid
+Yes,Quant Researcher,Entry,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Senior,Mid
+No,NLP Engineer,Entry,Mid
+No,AI Researcher,Senior,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Entry,Startup
+Yes,Quant Researcher,Mid,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Entry,Startup
+No,NLP Engineer,Mid,Startup
+No,AI Researcher,Entry,Startup
+No,ML Engineer,Senior,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Senior,Large
+Yes,Quant Researcher,Mid,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Senior,Large
+No,NLP Engineer,Entry,Large
+No,AI Researcher,Mid,Large
+No,ML Engineer,Senior,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Entry,Mid
+Yes,Quant Researcher,Senior,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Entry,Mid
+No,NLP Engineer,Senior,Mid
+No,AI Researcher,Entry,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Mid,Startup
+Yes,Quant Researcher,Entry,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Mid,Startup
+No,NLP Engineer,Entry,Startup
+No,AI Researcher,Senior,Startup
+No,ML Engineer,Mid,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Mid,Large
+Yes,Quant Researcher,Senior,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Mid,Large
+No,NLP Engineer,Senior,Large
+No,AI Researcher,Entry,Large
+No,ML Engineer,Mid,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Senior,Mid
+Yes,Quant Researcher,Entry,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Senior,Mid
+No,NLP Engineer,Entry,Mid
+No,AI Researcher,Senior,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Entry,Startup
+Yes,Quant Researcher,Mid,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Entry,Startup
+No,NLP Engineer,Mid,Startup
+No,AI Researcher,Entry,Startup
+No,ML Engineer,Senior,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Senior,Large
+Yes,Quant Researcher,Mid,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Senior,Large
+No,NLP Engineer,Entry,Large
+No,AI Researcher,Mid,Large
+No,ML Engineer,Senior,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Entry,Mid
+Yes,Quant Researcher,Senior,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Entry,Mid
+No,NLP Engineer,Senior,Mid
+No,AI Researcher,Entry,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Mid,Startup
+Yes,Quant Researcher,Entry,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Mid,Startup
+No,NLP Engineer,Entry,Startup
+No,AI Researcher,Senior,Startup
+No,ML Engineer,Mid,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Mid,Large
+Yes,Quant Researcher,Senior,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Mid,Large
+No,NLP Engineer,Senior,Large
+No,AI Researcher,Entry,Large
+No,ML Engineer,Mid,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Senior,Mid
+Yes,Quant Researcher,Entry,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Senior,Mid
+No,NLP Engineer,Entry,Mid
+No,AI Researcher,Senior,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Entry,Startup
+Yes,Quant Researcher,Mid,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Entry,Startup
+No,NLP Engineer,Mid,Startup
+No,AI Researcher,Entry,Startup
+No,ML Engineer,Senior,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Senior,Large
+Yes,Quant Researcher,Mid,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Senior,Large
+No,NLP Engineer,Entry,Large
+No,AI Researcher,Mid,Large
+No,ML Engineer,Senior,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Entry,Mid
+Yes,Quant Researcher,Senior,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Entry,Mid
+No,NLP Engineer,Senior,Mid
+No,AI Researcher,Entry,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Mid,Startup
+Yes,Quant Researcher,Entry,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Mid,Startup
+No,NLP Engineer,Entry,Startup
+No,AI Researcher,Senior,Startup
+No,ML Engineer,Mid,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Mid,Large
+Yes,Quant Researcher,Senior,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Mid,Large
+No,NLP Engineer,Senior,Large
+No,AI Researcher,Entry,Large
+No,ML Engineer,Mid,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Senior,Mid
+Yes,Quant Researcher,Entry,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Senior,Mid
+No,NLP Engineer,Entry,Mid
+No,AI Researcher,Senior,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Entry,Startup
+Yes,Quant Researcher,Mid,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Entry,Startup
+No,NLP Engineer,Mid,Startup
+No,AI Researcher,Entry,Startup
+No,ML Engineer,Senior,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Senior,Large
+Yes,Quant Researcher,Mid,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Senior,Large
+No,NLP Engineer,Entry,Large
+No,AI Researcher,Mid,Large
+No,ML Engineer,Senior,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Entry,Mid
+Yes,Quant Researcher,Senior,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Entry,Mid
+No,NLP Engineer,Senior,Mid
+No,AI Researcher,Entry,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Mid,Startup
+Yes,Quant Researcher,Entry,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Mid,Startup
+No,NLP Engineer,Entry,Startup
+No,AI Researcher,Senior,Startup
+No,ML Engineer,Mid,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Mid,Large
+Yes,Quant Researcher,Senior,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Mid,Large
+No,NLP Engineer,Senior,Large
+No,AI Researcher,Entry,Large
+No,ML Engineer,Mid,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Senior,Mid
+Yes,Quant Researcher,Entry,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Senior,Mid
+No,NLP Engineer,Entry,Mid
+No,AI Researcher,Senior,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Entry,Startup
+Yes,Quant Researcher,Mid,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Entry,Startup
+No,NLP Engineer,Mid,Startup
+No,AI Researcher,Entry,Startup
+No,ML Engineer,Senior,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Senior,Large
+Yes,Quant Researcher,Mid,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Senior,Large
+No,NLP Engineer,Entry,Large
+No,AI Researcher,Mid,Large
+No,ML Engineer,Senior,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Entry,Mid
+Yes,Quant Researcher,Senior,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Entry,Mid
+No,NLP Engineer,Senior,Mid
+No,AI Researcher,Entry,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Mid,Startup
+Yes,Quant Researcher,Entry,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Mid,Startup
+No,NLP Engineer,Entry,Startup
+No,AI Researcher,Senior,Startup
+No,ML Engineer,Mid,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Mid,Large
+Yes,Quant Researcher,Senior,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Mid,Large
+No,NLP Engineer,Senior,Large
+No,AI Researcher,Entry,Large
+No,ML Engineer,Mid,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Senior,Mid
+Yes,Quant Researcher,Entry,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Senior,Mid
+No,NLP Engineer,Entry,Mid
+No,AI Researcher,Senior,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Entry,Startup
+Yes,Quant Researcher,Mid,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Entry,Startup
+No,NLP Engineer,Mid,Startup
+No,AI Researcher,Entry,Startup
+No,ML Engineer,Senior,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Senior,Large
+Yes,Quant Researcher,Mid,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Senior,Large
+No,NLP Engineer,Entry,Large
+No,AI Researcher,Mid,Large
+No,ML Engineer,Senior,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Entry,Mid
+Yes,Quant Researcher,Senior,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Entry,Mid
+No,NLP Engineer,Senior,Mid
+No,AI Researcher,Entry,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Mid,Startup
+Yes,Quant Researcher,Entry,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Mid,Startup
+No,NLP Engineer,Entry,Startup
+No,AI Researcher,Senior,Startup
+No,ML Engineer,Mid,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Mid,Large
+Yes,Quant Researcher,Senior,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Mid,Large
+No,NLP Engineer,Senior,Large
+No,AI Researcher,Entry,Large
+No,ML Engineer,Mid,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Senior,Mid
+Yes,Quant Researcher,Entry,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Senior,Mid
+No,NLP Engineer,Entry,Mid
+No,AI Researcher,Senior,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Entry,Startup
+Yes,Quant Researcher,Mid,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Entry,Startup
+No,NLP Engineer,Mid,Startup
+No,AI Researcher,Entry,Startup
+No,ML Engineer,Senior,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Senior,Large
+Yes,Quant Researcher,Mid,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Senior,Large
+No,NLP Engineer,Entry,Large
+No,AI Researcher,Mid,Large
+No,ML Engineer,Senior,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Entry,Mid
+Yes,Quant Researcher,Senior,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Entry,Mid
+No,NLP Engineer,Senior,Mid
+No,AI Researcher,Entry,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Mid,Startup
+Yes,Quant Researcher,Entry,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Mid,Startup
+No,NLP Engineer,Entry,Startup
+No,AI Researcher,Senior,Startup
+No,ML Engineer,Mid,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Mid,Large
+Yes,Quant Researcher,Senior,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Mid,Large
+No,NLP Engineer,Senior,Large
+No,AI Researcher,Entry,Large
+No,ML Engineer,Mid,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Senior,Mid
+Yes,Quant Researcher,Entry,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Senior,Mid
+No,NLP Engineer,Entry,Mid
+No,AI Researcher,Senior,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Entry,Startup
+Yes,Quant Researcher,Mid,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Entry,Startup
+No,NLP Engineer,Mid,Startup
+No,AI Researcher,Entry,Startup
+No,ML Engineer,Senior,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Senior,Large
+Yes,Quant Researcher,Mid,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Senior,Large
+No,NLP Engineer,Entry,Large
+No,AI Researcher,Mid,Large
+No,ML Engineer,Senior,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Entry,Mid
+Yes,Quant Researcher,Senior,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Entry,Mid
+No,NLP Engineer,Senior,Mid
+No,AI Researcher,Entry,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Mid,Startup
+Yes,Quant Researcher,Entry,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Mid,Startup
+No,NLP Engineer,Entry,Startup
+No,AI Researcher,Senior,Startup
+No,ML Engineer,Mid,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Mid,Large
+Yes,Quant Researcher,Senior,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Mid,Large
+No,NLP Engineer,Senior,Large
+No,AI Researcher,Entry,Large
+No,ML Engineer,Mid,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Senior,Mid
+Yes,Quant Researcher,Entry,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Senior,Mid
+No,NLP Engineer,Entry,Mid
+No,AI Researcher,Senior,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Entry,Startup
+Yes,Quant Researcher,Mid,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Entry,Startup
+No,NLP Engineer,Mid,Startup
+No,AI Researcher,Entry,Startup
+No,ML Engineer,Senior,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Senior,Large
+Yes,Quant Researcher,Mid,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Senior,Large
+No,NLP Engineer,Entry,Large
+No,AI Researcher,Mid,Large
+No,ML Engineer,Senior,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Entry,Mid
+Yes,Quant Researcher,Senior,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Entry,Mid
+No,NLP Engineer,Senior,Mid
+No,AI Researcher,Entry,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Mid,Startup
+Yes,Quant Researcher,Entry,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Mid,Startup
+No,NLP Engineer,Entry,Startup
+No,AI Researcher,Senior,Startup
+No,ML Engineer,Mid,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Mid,Large
+Yes,Quant Researcher,Senior,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Mid,Large
+No,NLP Engineer,Senior,Large
+No,AI Researcher,Entry,Large
+No,ML Engineer,Mid,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Senior,Mid
+Yes,Quant Researcher,Entry,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Senior,Mid
+No,NLP Engineer,Entry,Mid
+No,AI Researcher,Senior,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Entry,Startup
+Yes,Quant Researcher,Mid,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Entry,Startup
+No,NLP Engineer,Mid,Startup
+No,AI Researcher,Entry,Startup
+No,ML Engineer,Senior,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Senior,Large
+Yes,Quant Researcher,Mid,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Senior,Large
+No,NLP Engineer,Entry,Large
+No,AI Researcher,Mid,Large
+No,ML Engineer,Senior,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Entry,Mid
+Yes,Quant Researcher,Senior,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Entry,Mid
+No,NLP Engineer,Senior,Mid
+No,AI Researcher,Entry,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Mid,Startup
+Yes,Quant Researcher,Entry,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Mid,Startup
+No,NLP Engineer,Entry,Startup
+No,AI Researcher,Senior,Startup
+No,ML Engineer,Mid,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Mid,Large
+Yes,Quant Researcher,Senior,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Mid,Large
+No,NLP Engineer,Senior,Large
+No,AI Researcher,Entry,Large
+No,ML Engineer,Mid,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Senior,Mid
+Yes,Quant Researcher,Entry,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Senior,Mid
+No,NLP Engineer,Entry,Mid
+No,AI Researcher,Senior,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Entry,Startup
+Yes,Quant Researcher,Mid,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Entry,Startup
+No,NLP Engineer,Mid,Startup
+No,AI Researcher,Entry,Startup
+No,ML Engineer,Senior,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Senior,Large
+Yes,Quant Researcher,Mid,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Senior,Large
+No,NLP Engineer,Entry,Large
+No,AI Researcher,Mid,Large
+No,ML Engineer,Senior,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Entry,Mid
+Yes,Quant Researcher,Senior,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Entry,Mid
+No,NLP Engineer,Senior,Mid
+No,AI Researcher,Entry,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Mid,Startup
+Yes,Quant Researcher,Entry,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Mid,Startup
+No,NLP Engineer,Entry,Startup
+No,AI Researcher,Senior,Startup
+No,ML Engineer,Mid,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Mid,Large
+Yes,Quant Researcher,Senior,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Mid,Large
+No,NLP Engineer,Senior,Large
+No,AI Researcher,Entry,Large
+No,ML Engineer,Mid,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Senior,Mid
+Yes,Quant Researcher,Entry,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Senior,Mid
+No,NLP Engineer,Entry,Mid
+No,AI Researcher,Senior,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Entry,Startup
+Yes,Quant Researcher,Mid,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Entry,Startup
+No,NLP Engineer,Mid,Startup
+No,AI Researcher,Entry,Startup
+No,ML Engineer,Senior,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Senior,Large
+Yes,Quant Researcher,Mid,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Senior,Large
+No,NLP Engineer,Entry,Large
+No,AI Researcher,Mid,Large
+No,ML Engineer,Senior,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Entry,Mid
+Yes,Quant Researcher,Senior,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Entry,Mid
+No,NLP Engineer,Senior,Mid
+No,AI Researcher,Entry,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Mid,Startup
+Yes,Quant Researcher,Entry,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Mid,Startup
+No,NLP Engineer,Entry,Startup
+No,AI Researcher,Senior,Startup
+No,ML Engineer,Mid,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Mid,Large
+Yes,Quant Researcher,Senior,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Mid,Large
+No,NLP Engineer,Senior,Large
+No,AI Researcher,Entry,Large
+No,ML Engineer,Mid,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Senior,Mid
+Yes,Quant Researcher,Entry,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Senior,Mid
+No,NLP Engineer,Entry,Mid
+No,AI Researcher,Senior,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Entry,Startup
+Yes,Quant Researcher,Mid,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Entry,Startup
+No,NLP Engineer,Mid,Startup
+No,AI Researcher,Entry,Startup
+No,ML Engineer,Senior,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Senior,Large
+Yes,Quant Researcher,Mid,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Senior,Large
+No,NLP Engineer,Entry,Large
+No,AI Researcher,Mid,Large
+No,ML Engineer,Senior,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Entry,Mid
+Yes,Quant Researcher,Senior,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Entry,Mid
+No,NLP Engineer,Senior,Mid
+No,AI Researcher,Entry,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Mid,Startup
+Yes,Quant Researcher,Entry,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Mid,Startup
+No,NLP Engineer,Entry,Startup
+No,AI Researcher,Senior,Startup
+No,ML Engineer,Mid,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Mid,Large
+Yes,Quant Researcher,Senior,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Mid,Large
+No,NLP Engineer,Senior,Large
+No,AI Researcher,Entry,Large
+No,ML Engineer,Mid,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Senior,Mid
+Yes,Quant Researcher,Entry,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Senior,Mid
+No,NLP Engineer,Entry,Mid
+No,AI Researcher,Senior,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Entry,Startup
+Yes,Quant Researcher,Mid,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Entry,Startup
+No,NLP Engineer,Mid,Startup
+No,AI Researcher,Entry,Startup
+No,ML Engineer,Senior,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Senior,Large
+Yes,Quant Researcher,Mid,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Senior,Large
+No,NLP Engineer,Entry,Large
+No,AI Researcher,Mid,Large
+No,ML Engineer,Senior,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Entry,Mid
+Yes,Quant Researcher,Senior,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Entry,Mid
+No,NLP Engineer,Senior,Mid
+No,AI Researcher,Entry,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Mid,Startup
+Yes,Quant Researcher,Entry,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Mid,Startup
+No,NLP Engineer,Entry,Startup
+No,AI Researcher,Senior,Startup
+No,ML Engineer,Mid,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Mid,Large
+Yes,Quant Researcher,Senior,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Mid,Large
+No,NLP Engineer,Senior,Large
+No,AI Researcher,Entry,Large
+No,ML Engineer,Mid,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Senior,Mid
+Yes,Quant Researcher,Entry,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Senior,Mid
+No,NLP Engineer,Entry,Mid
+No,AI Researcher,Senior,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Entry,Startup
+Yes,Quant Researcher,Mid,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Entry,Startup
+No,NLP Engineer,Mid,Startup
+No,AI Researcher,Entry,Startup
+No,ML Engineer,Senior,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Senior,Large
+Yes,Quant Researcher,Mid,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Senior,Large
+No,NLP Engineer,Entry,Large
+No,AI Researcher,Mid,Large
+No,ML Engineer,Senior,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Entry,Mid
+Yes,Quant Researcher,Senior,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Entry,Mid
+No,NLP Engineer,Senior,Mid
+No,AI Researcher,Entry,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Mid,Startup
+Yes,Quant Researcher,Entry,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Mid,Startup
+No,NLP Engineer,Entry,Startup
+No,AI Researcher,Senior,Startup
+No,ML Engineer,Mid,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Mid,Large
+Yes,Quant Researcher,Senior,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Mid,Large
+No,NLP Engineer,Senior,Large
+No,AI Researcher,Entry,Large
+No,ML Engineer,Mid,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Senior,Mid
+Yes,Quant Researcher,Entry,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Senior,Mid
+No,NLP Engineer,Entry,Mid
+No,AI Researcher,Senior,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Entry,Startup
+Yes,Quant Researcher,Mid,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Entry,Startup
+No,NLP Engineer,Mid,Startup
+No,AI Researcher,Entry,Startup
+No,ML Engineer,Senior,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Senior,Large
+Yes,Quant Researcher,Mid,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Senior,Large
+No,NLP Engineer,Entry,Large
+No,AI Researcher,Mid,Large
+No,ML Engineer,Senior,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Entry,Mid
+Yes,Quant Researcher,Senior,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Entry,Mid
+No,NLP Engineer,Senior,Mid
+No,AI Researcher,Entry,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Mid,Startup
+Yes,Quant Researcher,Entry,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Mid,Startup
+No,NLP Engineer,Entry,Startup
+No,AI Researcher,Senior,Startup
+No,ML Engineer,Mid,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Mid,Large
+Yes,Quant Researcher,Senior,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Mid,Large
+No,NLP Engineer,Senior,Large
+No,AI Researcher,Entry,Large
+No,ML Engineer,Mid,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Senior,Mid
+Yes,Quant Researcher,Entry,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Senior,Mid
+No,NLP Engineer,Entry,Mid
+No,AI Researcher,Senior,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Entry,Startup
+Yes,Quant Researcher,Mid,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Entry,Startup
+No,NLP Engineer,Mid,Startup
+No,AI Researcher,Entry,Startup
+No,ML Engineer,Senior,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Senior,Large
+Yes,Quant Researcher,Mid,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Senior,Large
+No,NLP Engineer,Entry,Large
+No,AI Researcher,Mid,Large
+No,ML Engineer,Senior,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Entry,Mid
+Yes,Quant Researcher,Senior,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Entry,Mid
+No,NLP Engineer,Senior,Mid
+No,AI Researcher,Entry,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Mid,Startup
+Yes,Quant Researcher,Entry,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Mid,Startup
+No,NLP Engineer,Entry,Startup
+No,AI Researcher,Senior,Startup
+No,ML Engineer,Mid,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Mid,Large
+Yes,Quant Researcher,Senior,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Mid,Large
+No,NLP Engineer,Senior,Large
+No,AI Researcher,Entry,Large
+No,ML Engineer,Mid,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Senior,Mid
+Yes,Quant Researcher,Entry,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Senior,Mid
+No,NLP Engineer,Entry,Mid
+No,AI Researcher,Senior,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Entry,Startup
+Yes,Quant Researcher,Mid,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Entry,Startup
+No,NLP Engineer,Mid,Startup
+No,AI Researcher,Entry,Startup
+No,ML Engineer,Senior,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Senior,Large
+Yes,Quant Researcher,Mid,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Senior,Large
+No,NLP Engineer,Entry,Large
+No,AI Researcher,Mid,Large
+No,ML Engineer,Senior,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Entry,Mid
+Yes,Quant Researcher,Senior,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Entry,Mid
+No,NLP Engineer,Senior,Mid
+No,AI Researcher,Entry,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Mid,Startup
+Yes,Quant Researcher,Entry,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Mid,Startup
+No,NLP Engineer,Entry,Startup
+No,AI Researcher,Senior,Startup
+No,ML Engineer,Mid,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Mid,Large
+Yes,Quant Researcher,Senior,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Mid,Large
+No,NLP Engineer,Senior,Large
+No,AI Researcher,Entry,Large
+No,ML Engineer,Mid,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Senior,Mid
+Yes,Quant Researcher,Entry,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Senior,Mid
+No,NLP Engineer,Entry,Mid
+No,AI Researcher,Senior,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Entry,Startup
+Yes,Quant Researcher,Mid,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Entry,Startup
+No,NLP Engineer,Mid,Startup
+No,AI Researcher,Entry,Startup
+No,ML Engineer,Senior,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Senior,Large
+Yes,Quant Researcher,Mid,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Senior,Large
+No,NLP Engineer,Entry,Large
+No,AI Researcher,Mid,Large
+No,ML Engineer,Senior,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Entry,Mid
+Yes,Quant Researcher,Senior,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Entry,Mid
+No,NLP Engineer,Senior,Mid
+No,AI Researcher,Entry,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Mid,Startup
+Yes,Quant Researcher,Entry,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Mid,Startup
+No,NLP Engineer,Entry,Startup
+No,AI Researcher,Senior,Startup
+No,ML Engineer,Mid,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Mid,Large
+Yes,Quant Researcher,Senior,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Mid,Large
+No,NLP Engineer,Senior,Large
+No,AI Researcher,Entry,Large
+No,ML Engineer,Mid,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Senior,Mid
+Yes,Quant Researcher,Entry,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Senior,Mid
+No,NLP Engineer,Entry,Mid
+No,AI Researcher,Senior,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Entry,Startup
+Yes,Quant Researcher,Mid,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Entry,Startup
+No,NLP Engineer,Mid,Startup
+No,AI Researcher,Entry,Startup
+No,ML Engineer,Senior,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Senior,Large
+Yes,Quant Researcher,Mid,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Senior,Large
+No,NLP Engineer,Entry,Large
+No,AI Researcher,Mid,Large
+No,ML Engineer,Senior,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Entry,Mid
+Yes,Quant Researcher,Senior,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Entry,Mid
+No,NLP Engineer,Senior,Mid
+No,AI Researcher,Entry,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Mid,Startup
+Yes,Quant Researcher,Entry,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Mid,Startup
+No,NLP Engineer,Entry,Startup
+No,AI Researcher,Senior,Startup
+No,ML Engineer,Mid,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Mid,Large
+Yes,Quant Researcher,Senior,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Mid,Large
+No,NLP Engineer,Senior,Large
+No,AI Researcher,Entry,Large
+No,ML Engineer,Mid,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Senior,Mid
+Yes,Quant Researcher,Entry,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Senior,Mid
+No,NLP Engineer,Entry,Mid
+No,AI Researcher,Senior,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Entry,Startup
+Yes,Quant Researcher,Mid,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Entry,Startup
+No,NLP Engineer,Mid,Startup
+No,AI Researcher,Entry,Startup
+No,ML Engineer,Senior,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Senior,Large
+Yes,Quant Researcher,Mid,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Senior,Large
+No,NLP Engineer,Entry,Large
+No,AI Researcher,Mid,Large
+No,ML Engineer,Senior,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Entry,Mid
+Yes,Quant Researcher,Senior,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Entry,Mid
+No,NLP Engineer,Senior,Mid
+No,AI Researcher,Entry,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Mid,Startup
+Yes,Quant Researcher,Entry,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Mid,Startup
+No,NLP Engineer,Entry,Startup
+No,AI Researcher,Senior,Startup
+No,ML Engineer,Mid,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Mid,Large
+Yes,Quant Researcher,Senior,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Mid,Large
+No,NLP Engineer,Senior,Large
+No,AI Researcher,Entry,Large
+No,ML Engineer,Mid,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Senior,Mid
+Yes,Quant Researcher,Entry,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Senior,Mid
+No,NLP Engineer,Entry,Mid
+No,AI Researcher,Senior,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Entry,Startup
+Yes,Quant Researcher,Mid,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Entry,Startup
+No,NLP Engineer,Mid,Startup
+No,AI Researcher,Entry,Startup
+No,ML Engineer,Senior,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Senior,Large
+Yes,Quant Researcher,Mid,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Senior,Large
+No,NLP Engineer,Entry,Large
+No,AI Researcher,Mid,Large
+No,ML Engineer,Senior,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Entry,Mid
+Yes,Quant Researcher,Senior,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Entry,Mid
+No,NLP Engineer,Senior,Mid
+No,AI Researcher,Entry,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Mid,Startup
+Yes,Quant Researcher,Entry,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Mid,Startup
+No,NLP Engineer,Entry,Startup
+No,AI Researcher,Senior,Startup
+No,ML Engineer,Mid,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Mid,Large
+Yes,Quant Researcher,Senior,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Mid,Large
+No,NLP Engineer,Senior,Large
+No,AI Researcher,Entry,Large
+No,ML Engineer,Mid,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Senior,Mid
+Yes,Quant Researcher,Entry,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Senior,Mid
+No,NLP Engineer,Entry,Mid
+No,AI Researcher,Senior,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Entry,Startup
+Yes,Quant Researcher,Mid,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Entry,Startup
+No,NLP Engineer,Mid,Startup
+No,AI Researcher,Entry,Startup
+No,ML Engineer,Senior,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Senior,Large
+Yes,Quant Researcher,Mid,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Senior,Large
+No,NLP Engineer,Entry,Large
+No,AI Researcher,Mid,Large
+No,ML Engineer,Senior,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Entry,Mid
+Yes,Quant Researcher,Senior,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Entry,Mid
+No,NLP Engineer,Senior,Mid
+No,AI Researcher,Entry,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Mid,Startup
+Yes,Quant Researcher,Entry,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Mid,Startup
+No,NLP Engineer,Entry,Startup
+No,AI Researcher,Senior,Startup
+No,ML Engineer,Mid,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Mid,Large
+Yes,Quant Researcher,Senior,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Mid,Large
+No,NLP Engineer,Senior,Large
+No,AI Researcher,Entry,Large
+No,ML Engineer,Mid,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Senior,Mid
+Yes,Quant Researcher,Entry,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Senior,Mid
+No,NLP Engineer,Entry,Mid
+No,AI Researcher,Senior,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Entry,Startup
+Yes,Quant Researcher,Mid,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Entry,Startup
+No,NLP Engineer,Mid,Startup
+No,AI Researcher,Entry,Startup
+No,ML Engineer,Senior,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Senior,Large
+Yes,Quant Researcher,Mid,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Senior,Large
+No,NLP Engineer,Entry,Large
+No,AI Researcher,Mid,Large
+No,ML Engineer,Senior,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Entry,Mid
+Yes,Quant Researcher,Senior,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Entry,Mid
+No,NLP Engineer,Senior,Mid
+No,AI Researcher,Entry,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Mid,Startup
+Yes,Quant Researcher,Entry,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Mid,Startup
+No,NLP Engineer,Entry,Startup
+No,AI Researcher,Senior,Startup
+No,ML Engineer,Mid,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Mid,Large
+Yes,Quant Researcher,Senior,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Mid,Large
+No,NLP Engineer,Senior,Large
+No,AI Researcher,Entry,Large
+No,ML Engineer,Mid,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Senior,Mid
+Yes,Quant Researcher,Entry,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Senior,Mid
+No,NLP Engineer,Entry,Mid
+No,AI Researcher,Senior,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Entry,Startup
+Yes,Quant Researcher,Mid,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Entry,Startup
+No,NLP Engineer,Mid,Startup
+No,AI Researcher,Entry,Startup
+No,ML Engineer,Senior,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Senior,Large
+Yes,Quant Researcher,Mid,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Senior,Large
+No,NLP Engineer,Entry,Large
+No,AI Researcher,Mid,Large
+No,ML Engineer,Senior,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Entry,Mid
+Yes,Quant Researcher,Senior,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Entry,Mid
+No,NLP Engineer,Senior,Mid
+No,AI Researcher,Entry,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Mid,Startup
+Yes,Quant Researcher,Entry,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Mid,Startup
+No,NLP Engineer,Entry,Startup
+No,AI Researcher,Senior,Startup
+No,ML Engineer,Mid,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Mid,Large
+Yes,Quant Researcher,Senior,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Mid,Large
+No,NLP Engineer,Senior,Large
+No,AI Researcher,Entry,Large
+No,ML Engineer,Mid,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Senior,Mid
+Yes,Quant Researcher,Entry,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Senior,Mid
+No,NLP Engineer,Entry,Mid
+No,AI Researcher,Senior,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Entry,Startup
+Yes,Quant Researcher,Mid,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Entry,Startup
+No,NLP Engineer,Mid,Startup
+No,AI Researcher,Entry,Startup
+No,ML Engineer,Senior,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Senior,Large
+Yes,Quant Researcher,Mid,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Senior,Large
+No,NLP Engineer,Entry,Large
+No,AI Researcher,Mid,Large
+No,ML Engineer,Senior,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Entry,Mid
+Yes,Quant Researcher,Senior,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Entry,Mid
+No,NLP Engineer,Senior,Mid
+No,AI Researcher,Entry,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Mid,Startup
+Yes,Quant Researcher,Entry,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Mid,Startup
+No,NLP Engineer,Entry,Startup
+No,AI Researcher,Senior,Startup
+No,ML Engineer,Mid,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Mid,Large
+Yes,Quant Researcher,Senior,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Mid,Large
+No,NLP Engineer,Senior,Large
+No,AI Researcher,Entry,Large
+No,ML Engineer,Mid,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Senior,Mid
+Yes,Quant Researcher,Entry,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Senior,Mid
+No,NLP Engineer,Entry,Mid
+No,AI Researcher,Senior,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Entry,Startup
+Yes,Quant Researcher,Mid,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Entry,Startup
+No,NLP Engineer,Mid,Startup
+No,AI Researcher,Entry,Startup
+No,ML Engineer,Senior,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Senior,Large
+Yes,Quant Researcher,Mid,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Senior,Large
+No,NLP Engineer,Entry,Large
+No,AI Researcher,Mid,Large
+No,ML Engineer,Senior,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Entry,Mid
+Yes,Quant Researcher,Senior,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Entry,Mid
+No,NLP Engineer,Senior,Mid
+No,AI Researcher,Entry,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Mid,Startup
+Yes,Quant Researcher,Entry,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Mid,Startup
+No,NLP Engineer,Entry,Startup
+No,AI Researcher,Senior,Startup
+No,ML Engineer,Mid,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Mid,Large
+Yes,Quant Researcher,Senior,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Mid,Large
+No,NLP Engineer,Senior,Large
+No,AI Researcher,Entry,Large
+No,ML Engineer,Mid,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Senior,Mid
+Yes,Quant Researcher,Entry,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Senior,Mid
+No,NLP Engineer,Entry,Mid
+No,AI Researcher,Senior,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Entry,Startup
+Yes,Quant Researcher,Mid,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Entry,Startup
+No,NLP Engineer,Mid,Startup
+No,AI Researcher,Entry,Startup
+No,ML Engineer,Senior,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Senior,Large
+Yes,Quant Researcher,Mid,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Senior,Large
+No,NLP Engineer,Entry,Large
+No,AI Researcher,Mid,Large
+No,ML Engineer,Senior,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Entry,Mid
+Yes,Quant Researcher,Senior,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Entry,Mid
+No,NLP Engineer,Senior,Mid
+No,AI Researcher,Entry,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Mid,Startup
+Yes,Quant Researcher,Entry,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Mid,Startup
+No,NLP Engineer,Entry,Startup
+No,AI Researcher,Senior,Startup
+No,ML Engineer,Mid,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Mid,Large
+Yes,Quant Researcher,Senior,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Mid,Large
+No,NLP Engineer,Senior,Large
+No,AI Researcher,Entry,Large
+No,ML Engineer,Mid,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Senior,Mid
+Yes,Quant Researcher,Entry,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Senior,Mid
+No,NLP Engineer,Entry,Mid
+No,AI Researcher,Senior,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Entry,Startup
+Yes,Quant Researcher,Mid,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Entry,Startup
+No,NLP Engineer,Mid,Startup
+No,AI Researcher,Entry,Startup
+No,ML Engineer,Senior,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Senior,Large
+Yes,Quant Researcher,Mid,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Senior,Large
+No,NLP Engineer,Entry,Large
+No,AI Researcher,Mid,Large
+No,ML Engineer,Senior,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Entry,Mid
+Yes,Quant Researcher,Senior,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Entry,Mid
+No,NLP Engineer,Senior,Mid
+No,AI Researcher,Entry,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Mid,Startup
+Yes,Quant Researcher,Entry,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Mid,Startup
+No,NLP Engineer,Entry,Startup
+No,AI Researcher,Senior,Startup
+No,ML Engineer,Mid,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Mid,Large
+Yes,Quant Researcher,Senior,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Mid,Large
+No,NLP Engineer,Senior,Large
+No,AI Researcher,Entry,Large
+No,ML Engineer,Mid,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Senior,Mid
+Yes,Quant Researcher,Entry,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Senior,Mid
+No,NLP Engineer,Entry,Mid
+No,AI Researcher,Senior,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Entry,Startup
+Yes,Quant Researcher,Mid,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Entry,Startup
+No,NLP Engineer,Mid,Startup
+No,AI Researcher,Entry,Startup
+No,ML Engineer,Senior,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Senior,Large
+Yes,Quant Researcher,Mid,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Senior,Large
+No,NLP Engineer,Entry,Large
+No,AI Researcher,Mid,Large
+No,ML Engineer,Senior,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Entry,Mid
+Yes,Quant Researcher,Senior,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Entry,Mid
+No,NLP Engineer,Senior,Mid
+No,AI Researcher,Entry,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Mid,Startup
+Yes,Quant Researcher,Entry,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Mid,Startup
+No,NLP Engineer,Entry,Startup
+No,AI Researcher,Senior,Startup
+No,ML Engineer,Mid,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Mid,Large
+Yes,Quant Researcher,Senior,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Mid,Large
+No,NLP Engineer,Senior,Large
+No,AI Researcher,Entry,Large
+No,ML Engineer,Mid,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Senior,Mid
+Yes,Quant Researcher,Entry,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Senior,Mid
+No,NLP Engineer,Entry,Mid
+No,AI Researcher,Senior,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Entry,Startup
+Yes,Quant Researcher,Mid,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Entry,Startup
+No,NLP Engineer,Mid,Startup
+No,AI Researcher,Entry,Startup
+No,ML Engineer,Senior,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Senior,Large
+Yes,Quant Researcher,Mid,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Senior,Large
+No,NLP Engineer,Entry,Large
+No,AI Researcher,Mid,Large
+No,ML Engineer,Senior,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Entry,Mid
+Yes,Quant Researcher,Senior,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Entry,Mid
+No,NLP Engineer,Senior,Mid
+No,AI Researcher,Entry,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Mid,Startup
+Yes,Quant Researcher,Entry,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Mid,Startup
+No,NLP Engineer,Entry,Startup
+No,AI Researcher,Senior,Startup
+No,ML Engineer,Mid,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Mid,Large
+Yes,Quant Researcher,Senior,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Mid,Large
+No,NLP Engineer,Senior,Large
+No,AI Researcher,Entry,Large
+No,ML Engineer,Mid,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Senior,Mid
+Yes,Quant Researcher,Entry,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Senior,Mid
+No,NLP Engineer,Entry,Mid
+No,AI Researcher,Senior,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Entry,Startup
+Yes,Quant Researcher,Mid,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Entry,Startup
+No,NLP Engineer,Mid,Startup
+No,AI Researcher,Entry,Startup
+No,ML Engineer,Senior,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Senior,Large
+Yes,Quant Researcher,Mid,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Senior,Large
+No,NLP Engineer,Entry,Large
+No,AI Researcher,Mid,Large
+No,ML Engineer,Senior,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Entry,Mid
+Yes,Quant Researcher,Senior,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Entry,Mid
+No,NLP Engineer,Senior,Mid
+No,AI Researcher,Entry,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Mid,Startup
+Yes,Quant Researcher,Entry,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Mid,Startup
+No,NLP Engineer,Entry,Startup
+No,AI Researcher,Senior,Startup
+No,ML Engineer,Mid,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Mid,Large
+Yes,Quant Researcher,Senior,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Mid,Large
+No,NLP Engineer,Senior,Large
+No,AI Researcher,Entry,Large
+No,ML Engineer,Mid,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Senior,Mid
+Yes,Quant Researcher,Entry,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Senior,Mid
+No,NLP Engineer,Entry,Mid
+No,AI Researcher,Senior,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Entry,Startup
+Yes,Quant Researcher,Mid,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Entry,Startup
+No,NLP Engineer,Mid,Startup
+No,AI Researcher,Entry,Startup
+No,ML Engineer,Senior,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Senior,Large
+Yes,Quant Researcher,Mid,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Senior,Large
+No,NLP Engineer,Entry,Large
+No,AI Researcher,Mid,Large
+No,ML Engineer,Senior,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Entry,Mid
+Yes,Quant Researcher,Senior,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Entry,Mid
+No,NLP Engineer,Senior,Mid
+No,AI Researcher,Entry,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Mid,Startup
+Yes,Quant Researcher,Entry,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Mid,Startup
+No,NLP Engineer,Entry,Startup
+No,AI Researcher,Senior,Startup
+No,ML Engineer,Mid,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Mid,Large
+Yes,Quant Researcher,Senior,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Mid,Large
+No,NLP Engineer,Senior,Large
+No,AI Researcher,Entry,Large
+No,ML Engineer,Mid,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Senior,Mid
+Yes,Quant Researcher,Entry,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Senior,Mid
+No,NLP Engineer,Entry,Mid
+No,AI Researcher,Senior,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Entry,Startup
+Yes,Quant Researcher,Mid,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Entry,Startup
+No,NLP Engineer,Mid,Startup
+No,AI Researcher,Entry,Startup
+No,ML Engineer,Senior,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Senior,Large
+Yes,Quant Researcher,Mid,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Senior,Large
+No,NLP Engineer,Entry,Large
+No,AI Researcher,Mid,Large
+No,ML Engineer,Senior,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Entry,Mid
+Yes,Quant Researcher,Senior,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Entry,Mid
+No,NLP Engineer,Senior,Mid
+No,AI Researcher,Entry,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Mid,Startup
+Yes,Quant Researcher,Entry,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Mid,Startup
+No,NLP Engineer,Entry,Startup
+No,AI Researcher,Senior,Startup
+No,ML Engineer,Mid,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Mid,Large
+Yes,Quant Researcher,Senior,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Mid,Large
+No,NLP Engineer,Senior,Large
+No,AI Researcher,Entry,Large
+No,ML Engineer,Mid,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Senior,Mid
+Yes,Quant Researcher,Entry,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Senior,Mid
+No,NLP Engineer,Entry,Mid
+No,AI Researcher,Senior,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Entry,Startup
+Yes,Quant Researcher,Mid,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Entry,Startup
+No,NLP Engineer,Mid,Startup
+No,AI Researcher,Entry,Startup
+No,ML Engineer,Senior,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Senior,Large
+Yes,Quant Researcher,Mid,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Senior,Large
+No,NLP Engineer,Entry,Large
+No,AI Researcher,Mid,Large
+No,ML Engineer,Senior,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Entry,Mid
+Yes,Quant Researcher,Senior,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Entry,Mid
+No,NLP Engineer,Senior,Mid
+No,AI Researcher,Entry,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Mid,Startup
+Yes,Quant Researcher,Entry,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Mid,Startup
+No,NLP Engineer,Entry,Startup
+No,AI Researcher,Senior,Startup
+No,ML Engineer,Mid,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Mid,Large
+Yes,Quant Researcher,Senior,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Mid,Large
+No,NLP Engineer,Senior,Large
+No,AI Researcher,Entry,Large
+No,ML Engineer,Mid,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Senior,Mid
+Yes,Quant Researcher,Entry,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Senior,Mid
+No,NLP Engineer,Entry,Mid
+No,AI Researcher,Senior,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Entry,Startup
+Yes,Quant Researcher,Mid,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Entry,Startup
+No,NLP Engineer,Mid,Startup
+No,AI Researcher,Entry,Startup
+No,ML Engineer,Senior,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Senior,Large
+Yes,Quant Researcher,Mid,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Senior,Large
+No,NLP Engineer,Entry,Large
+No,AI Researcher,Mid,Large
+No,ML Engineer,Senior,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Entry,Mid
+Yes,Quant Researcher,Senior,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Entry,Mid
+No,NLP Engineer,Senior,Mid
+No,AI Researcher,Entry,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Mid,Startup
+Yes,Quant Researcher,Entry,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Mid,Startup
+No,NLP Engineer,Entry,Startup
+No,AI Researcher,Senior,Startup
+No,ML Engineer,Mid,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Mid,Large
+Yes,Quant Researcher,Senior,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Mid,Large
+No,NLP Engineer,Senior,Large
+No,AI Researcher,Entry,Large
+No,ML Engineer,Mid,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Senior,Mid
+Yes,Quant Researcher,Entry,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Senior,Mid
+No,NLP Engineer,Entry,Mid
+No,AI Researcher,Senior,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Entry,Startup
+Yes,Quant Researcher,Mid,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Entry,Startup
+No,NLP Engineer,Mid,Startup
+No,AI Researcher,Entry,Startup
+No,ML Engineer,Senior,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Senior,Large
+Yes,Quant Researcher,Mid,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Senior,Large
+No,NLP Engineer,Entry,Large
+No,AI Researcher,Mid,Large
+No,ML Engineer,Senior,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Entry,Mid
+Yes,Quant Researcher,Senior,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Entry,Mid
+No,NLP Engineer,Senior,Mid
+No,AI Researcher,Entry,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Mid,Startup
+Yes,Quant Researcher,Entry,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Mid,Startup
+No,NLP Engineer,Entry,Startup
+No,AI Researcher,Senior,Startup
+No,ML Engineer,Mid,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Mid,Large
+Yes,Quant Researcher,Senior,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Mid,Large
+No,NLP Engineer,Senior,Large
+No,AI Researcher,Entry,Large
+No,ML Engineer,Mid,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Senior,Mid
+Yes,Quant Researcher,Entry,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Senior,Mid
+No,NLP Engineer,Entry,Mid
+No,AI Researcher,Senior,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Entry,Startup
+Yes,Quant Researcher,Mid,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Entry,Startup
+No,NLP Engineer,Mid,Startup
+No,AI Researcher,Entry,Startup
+No,ML Engineer,Senior,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Senior,Large
+Yes,Quant Researcher,Mid,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Senior,Large
+No,NLP Engineer,Entry,Large
+No,AI Researcher,Mid,Large
+No,ML Engineer,Senior,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Entry,Mid
+Yes,Quant Researcher,Senior,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Entry,Mid
+No,NLP Engineer,Senior,Mid
+No,AI Researcher,Entry,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Mid,Startup
+Yes,Quant Researcher,Entry,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Mid,Startup
+No,NLP Engineer,Entry,Startup
+No,AI Researcher,Senior,Startup
+No,ML Engineer,Mid,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Mid,Large
+Yes,Quant Researcher,Senior,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Mid,Large
+No,NLP Engineer,Senior,Large
+No,AI Researcher,Entry,Large
+No,ML Engineer,Mid,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Senior,Mid
+Yes,Quant Researcher,Entry,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Senior,Mid
+No,NLP Engineer,Entry,Mid
+No,AI Researcher,Senior,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Entry,Startup
+Yes,Quant Researcher,Mid,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Entry,Startup
+No,NLP Engineer,Mid,Startup
+No,AI Researcher,Entry,Startup
+No,ML Engineer,Senior,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Senior,Large
+Yes,Quant Researcher,Mid,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Senior,Large
+No,NLP Engineer,Entry,Large
+No,AI Researcher,Mid,Large
+No,ML Engineer,Senior,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Entry,Mid
+Yes,Quant Researcher,Senior,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Entry,Mid
+No,NLP Engineer,Senior,Mid
+No,AI Researcher,Entry,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Mid,Startup
+Yes,Quant Researcher,Entry,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Mid,Startup
+No,NLP Engineer,Entry,Startup
+No,AI Researcher,Senior,Startup
+No,ML Engineer,Mid,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Mid,Large
+Yes,Quant Researcher,Senior,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Mid,Large
+No,NLP Engineer,Senior,Large
+No,AI Researcher,Entry,Large
+No,ML Engineer,Mid,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Senior,Mid
+Yes,Quant Researcher,Entry,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Senior,Mid
+No,NLP Engineer,Entry,Mid
+No,AI Researcher,Senior,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Entry,Startup
+Yes,Quant Researcher,Mid,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Entry,Startup
+No,NLP Engineer,Mid,Startup
+No,AI Researcher,Entry,Startup
+No,ML Engineer,Senior,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Senior,Large
+Yes,Quant Researcher,Mid,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Senior,Large
+No,NLP Engineer,Entry,Large
+No,AI Researcher,Mid,Large
+No,ML Engineer,Senior,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Entry,Mid
+Yes,Quant Researcher,Senior,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Entry,Mid
+No,NLP Engineer,Senior,Mid
+No,AI Researcher,Entry,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Mid,Startup
+Yes,Quant Researcher,Entry,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Mid,Startup
+No,NLP Engineer,Entry,Startup
+No,AI Researcher,Senior,Startup
+No,ML Engineer,Mid,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Mid,Large
+Yes,Quant Researcher,Senior,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Mid,Large
+No,NLP Engineer,Senior,Large
+No,AI Researcher,Entry,Large
+No,ML Engineer,Mid,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Senior,Mid
+Yes,Quant Researcher,Entry,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Senior,Mid
+No,NLP Engineer,Entry,Mid
+No,AI Researcher,Senior,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Entry,Startup
+Yes,Quant Researcher,Mid,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Entry,Startup
+No,NLP Engineer,Mid,Startup
+No,AI Researcher,Entry,Startup
+No,ML Engineer,Senior,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Senior,Large
+Yes,Quant Researcher,Mid,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Senior,Large
+No,NLP Engineer,Entry,Large
+No,AI Researcher,Mid,Large
+No,ML Engineer,Senior,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Entry,Mid
+Yes,Quant Researcher,Senior,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Entry,Mid
+No,NLP Engineer,Senior,Mid
+No,AI Researcher,Entry,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Mid,Startup
+Yes,Quant Researcher,Entry,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Mid,Startup
+No,NLP Engineer,Entry,Startup
+No,AI Researcher,Senior,Startup
+No,ML Engineer,Mid,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Mid,Large
+Yes,Quant Researcher,Senior,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Mid,Large
+No,NLP Engineer,Senior,Large
+No,AI Researcher,Entry,Large
+No,ML Engineer,Mid,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Senior,Mid
+Yes,Quant Researcher,Entry,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Senior,Mid
+No,NLP Engineer,Entry,Mid
+No,AI Researcher,Senior,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Entry,Startup
+Yes,Quant Researcher,Mid,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Entry,Startup
+No,NLP Engineer,Mid,Startup
+No,AI Researcher,Entry,Startup
+No,ML Engineer,Senior,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Senior,Large
+Yes,Quant Researcher,Mid,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Senior,Large
+No,NLP Engineer,Entry,Large
+No,AI Researcher,Mid,Large
+No,ML Engineer,Senior,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Entry,Mid
+Yes,Quant Researcher,Senior,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Entry,Mid
+No,NLP Engineer,Senior,Mid
+No,AI Researcher,Entry,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Mid,Startup
+Yes,Quant Researcher,Entry,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Mid,Startup
+No,NLP Engineer,Entry,Startup
+No,AI Researcher,Senior,Startup
+No,ML Engineer,Mid,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Mid,Large
+Yes,Quant Researcher,Senior,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Mid,Large
+No,NLP Engineer,Senior,Large
+No,AI Researcher,Entry,Large
+No,ML Engineer,Mid,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Senior,Mid
+Yes,Quant Researcher,Entry,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Senior,Mid
+No,NLP Engineer,Entry,Mid
+No,AI Researcher,Senior,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Entry,Startup
+Yes,Quant Researcher,Mid,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Entry,Startup
+No,NLP Engineer,Mid,Startup
+No,AI Researcher,Entry,Startup
+No,ML Engineer,Senior,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Senior,Large
+Yes,Quant Researcher,Mid,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Senior,Large
+No,NLP Engineer,Entry,Large
+No,AI Researcher,Mid,Large
+No,ML Engineer,Senior,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Entry,Mid
+Yes,Quant Researcher,Senior,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Entry,Mid
+No,NLP Engineer,Senior,Mid
+No,AI Researcher,Entry,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Mid,Startup
+Yes,Quant Researcher,Entry,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Mid,Startup
+No,NLP Engineer,Entry,Startup
+No,AI Researcher,Senior,Startup
+No,ML Engineer,Mid,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Mid,Large
+Yes,Quant Researcher,Senior,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Mid,Large
+No,NLP Engineer,Senior,Large
+No,AI Researcher,Entry,Large
+No,ML Engineer,Mid,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Senior,Mid
+Yes,Quant Researcher,Entry,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Senior,Mid
+No,NLP Engineer,Entry,Mid
+No,AI Researcher,Senior,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Entry,Startup
+Yes,Quant Researcher,Mid,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Entry,Startup
+No,NLP Engineer,Mid,Startup
+No,AI Researcher,Entry,Startup
+No,ML Engineer,Senior,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Senior,Large
+Yes,Quant Researcher,Mid,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Senior,Large
+No,NLP Engineer,Entry,Large
+No,AI Researcher,Mid,Large
+No,ML Engineer,Senior,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Entry,Mid
+Yes,Quant Researcher,Senior,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Entry,Mid
+No,NLP Engineer,Senior,Mid
+No,AI Researcher,Entry,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Mid,Startup
+Yes,Quant Researcher,Entry,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Mid,Startup
+No,NLP Engineer,Entry,Startup
+No,AI Researcher,Senior,Startup
+No,ML Engineer,Mid,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Mid,Large
+Yes,Quant Researcher,Senior,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Mid,Large
+No,NLP Engineer,Senior,Large
+No,AI Researcher,Entry,Large
+No,ML Engineer,Mid,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Senior,Mid
+Yes,Quant Researcher,Entry,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Senior,Mid
+No,NLP Engineer,Entry,Mid
+No,AI Researcher,Senior,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Entry,Startup
+Yes,Quant Researcher,Mid,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Entry,Startup
+No,NLP Engineer,Mid,Startup
+No,AI Researcher,Entry,Startup
+No,ML Engineer,Senior,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Senior,Large
+Yes,Quant Researcher,Mid,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Senior,Large
+No,NLP Engineer,Entry,Large
+No,AI Researcher,Mid,Large
+No,ML Engineer,Senior,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Entry,Mid
+Yes,Quant Researcher,Senior,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Entry,Mid
+No,NLP Engineer,Senior,Mid
+No,AI Researcher,Entry,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Mid,Startup
+Yes,Quant Researcher,Entry,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Mid,Startup
+No,NLP Engineer,Entry,Startup
+No,AI Researcher,Senior,Startup
+No,ML Engineer,Mid,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Mid,Large
+Yes,Quant Researcher,Senior,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Mid,Large
+No,NLP Engineer,Senior,Large
+No,AI Researcher,Entry,Large
+No,ML Engineer,Mid,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Senior,Mid
+Yes,Quant Researcher,Entry,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Senior,Mid
+No,NLP Engineer,Entry,Mid
+No,AI Researcher,Senior,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Entry,Startup
+Yes,Quant Researcher,Mid,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Entry,Startup
+No,NLP Engineer,Mid,Startup
+No,AI Researcher,Entry,Startup
+No,ML Engineer,Senior,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Senior,Large
+Yes,Quant Researcher,Mid,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Senior,Large
+No,NLP Engineer,Entry,Large
+No,AI Researcher,Mid,Large
+No,ML Engineer,Senior,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Entry,Mid
+Yes,Quant Researcher,Senior,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Entry,Mid
+No,NLP Engineer,Senior,Mid
+No,AI Researcher,Entry,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Mid,Startup
+Yes,Quant Researcher,Entry,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Mid,Startup
+No,NLP Engineer,Entry,Startup
+No,AI Researcher,Senior,Startup
+No,ML Engineer,Mid,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Mid,Large
+Yes,Quant Researcher,Senior,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Mid,Large
+No,NLP Engineer,Senior,Large
+No,AI Researcher,Entry,Large
+No,ML Engineer,Mid,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Senior,Mid
+Yes,Quant Researcher,Entry,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Senior,Mid
+No,NLP Engineer,Entry,Mid
+No,AI Researcher,Senior,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Entry,Startup
+Yes,Quant Researcher,Mid,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Entry,Startup
+No,NLP Engineer,Mid,Startup
+No,AI Researcher,Entry,Startup
+No,ML Engineer,Senior,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Senior,Large
+Yes,Quant Researcher,Mid,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Senior,Large
+No,NLP Engineer,Entry,Large
+No,AI Researcher,Mid,Large
+No,ML Engineer,Senior,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Entry,Mid
+Yes,Quant Researcher,Senior,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Entry,Mid
+No,NLP Engineer,Senior,Mid
+No,AI Researcher,Entry,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Mid,Startup
+Yes,Quant Researcher,Entry,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Mid,Startup
+No,NLP Engineer,Entry,Startup
+No,AI Researcher,Senior,Startup
+No,ML Engineer,Mid,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Mid,Large
+Yes,Quant Researcher,Senior,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Mid,Large
+No,NLP Engineer,Senior,Large
+No,AI Researcher,Entry,Large
+No,ML Engineer,Mid,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Senior,Mid
+Yes,Quant Researcher,Entry,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Senior,Mid
+No,NLP Engineer,Entry,Mid
+No,AI Researcher,Senior,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Mid,Startup
+Yes,Quant Researcher,Mid,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Entry,Startup
+No,NLP Engineer,Mid,Startup
+No,AI Researcher,Entry,Startup
+No,ML Engineer,Senior,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Senior,Large
+Yes,Quant Researcher,Mid,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Senior,Large
+No,NLP Engineer,Entry,Large
+No,AI Researcher,Mid,Large
+No,ML Engineer,Senior,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Entry,Mid
+Yes,Quant Researcher,Senior,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Entry,Mid
+No,NLP Engineer,Senior,Mid
+No,AI Researcher,Entry,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Mid,Startup
+Yes,Quant Researcher,Entry,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Mid,Startup
+No,NLP Engineer,Entry,Startup
+No,AI Researcher,Senior,Startup
+No,ML Engineer,Mid,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Mid,Large
+Yes,Quant Researcher,Senior,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Mid,Large
+No,NLP Engineer,Senior,Large
+No,AI Researcher,Entry,Large
+No,ML Engineer,Mid,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Senior,Mid
+Yes,Quant Researcher,Entry,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Senior,Mid
+No,NLP Engineer,Entry,Mid
+No,AI Researcher,Senior,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Mid,Startup
+Yes,Quant Researcher,Mid,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Entry,Startup
+No,NLP Engineer,Mid,Startup
+No,AI Researcher,Entry,Startup
+No,ML Engineer,Senior,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Senior,Large
+Yes,Quant Researcher,Mid,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Senior,Large
+No,NLP Engineer,Entry,Large
+No,AI Researcher,Mid,Large
+No,ML Engineer,Senior,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Entry,Mid
+Yes,Quant Researcher,Senior,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Entry,Mid
+No,NLP Engineer,Senior,Mid
+No,AI Researcher,Entry,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Mid,Startup
+Yes,Quant Researcher,Entry,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Mid,Startup
+No,NLP Engineer,Entry,Startup
+No,AI Researcher,Senior,Startup
+No,ML Engineer,Mid,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Mid,Large
+Yes,Quant Researcher,Senior,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Mid,Large
+No,NLP Engineer,Senior,Large
+No,AI Researcher,Entry,Large
+No,ML Engineer,Mid,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Senior,Mid
+Yes,Quant Researcher,Entry,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Senior,Mid
+No,NLP Engineer,Entry,Mid
+No,AI Researcher,Senior,Mid
+No,ML Engineer,Mid,Mid
+No,Data Analyst,Senior,Startup
+No,Computer Vision Engineer,Mid,Startup
+Yes,Quant Researcher,Mid,Startup
+No,AI Product Manager,Senior,Startup
+No,Data Scientist,Entry,Startup
+No,NLP Engineer,Mid,Startup
+No,AI Researcher,Entry,Startup
+No,ML Engineer,Senior,Startup
+No,Data Analyst,Entry,Large
+No,Computer Vision Engineer,Senior,Large
+Yes,Quant Researcher,Mid,Large
+No,AI Product Manager,Entry,Large
+No,Data Scientist,Senior,Large
+No,NLP Engineer,Entry,Large
+No,AI Researcher,Mid,Large
+No,ML Engineer,Senior,Large
+No,Data Analyst,Mid,Mid
+No,Computer Vision Engineer,Entry,Mid
+Yes,Quant Researcher,Senior,Mid
+No,AI Product Manager,Mid,Mid
+No,Data Scientist,Entry,Mid
